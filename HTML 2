@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>elephant</title>
+</head>
+<body>
+	<h1>ELEPHANT</h1>
+	
+     <p>Elephants are the<strong> largest existing animals</strong> Three species are currently recognised <em>the African bush elephant, the African forest elephant and the Asian elephant</em> Elephauridae is the only mrviving family of the Pro extinct members include the mastodons. The family Elephantidae also stains several extinct groups, including the monewshe and straight naked elephan. African elephants have larger ear and conceve hacks, whamas Asi elephants have smaller ears, and coves or level backs Distinctive features of all elephants inchade a Song probescia called a trunk, taks, farge est laps, mas irgs, and sough but av skia. The trunk it wond is heading, bringing food and water to the mouth, and grasping objects. Tiks, which are derived from the incisor teeth, serve bodi as weapons and as mols for moving objects and digging. The large er faps assist is maistining a comtan body imperatives as well as in comunication. The pillar-like legs carry their great weight
+     	 
+     </p>
+     <h2>Features of elephant</h2>
+     <u1> 
+     	 <li>largest land mammal</li>
+     	 <li>black in colour</li>
+     	 <li>have a trunk</li>
+     </u1>
+     <p><a href=" ">click here to search in google</a></p>
+     <h2>No of elephants</h2>
+     <table border="5">
+     	<thead>
+     		<tr>
+     			<th>sI no</th>
+     			<th>country</th>
+     			<th> no of elephants</th>
+            </tr>
+        </thead>
+        <tbody>
+        	<tr>
+        		<td>1</td>
+        		<td>india</td>
+        		<td>50000</td>
+        	</tr><tr>
+        		<td>2</td>
+        		<td>africa</td>
+        		<td>150000</td>
+        	</tr><tr>
+        		<td>2</td>
+        		<td>africa</td>
+        		<td>150000</td>
+        	</tr>
+        </tbody>
+        		
+    </table>
+    <br>
+    <h2> please fill the form below</h2>
+    <forms action ="process.php"method="POST">
+    	<div>
+    	  <LABEL>Name</LABEL>
+    	  <input type="text"name="Name"> 
+        </div>
+        <br>
+        <div>
+    	<LABEL>phone no</LABEL>
+    	<input type="text"name="Name">
+    	</div>
+    	<br>
+    	<input type="submit"name="submit"
+    	value="submit"> 
+    </forms>
+
+    <div style="margin-top:500px"></div>
+</body>
+</html> 
